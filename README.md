@@ -2,7 +2,7 @@
 This project is a SQL-only case study based on the Dairy Goods Sales Dataset from Kaggle.
 It showcases how raw sales data can be transformed into valuable business insights using pure SQL — no Python, Excel, or BI tools.
 
-✅ Key Highlights:
+## ✅ Key Highlights:
 📦 Inventory & Stock Analysis
 
 📈 Sales Performance Metrics
@@ -15,20 +15,20 @@ It showcases how raw sales data can be transformed into valuable business insigh
 
 🔁 Stock Turnover & Reorder Insights
 
-📑 Resources:
+## 📑 Resources:
 📄 PowerPoint Presentation — Key insights and visuals from the analysis
 
 🧠 16 Business Questions answered through SQL queries
 
 🧾 All queries included in the /SQL Queries folder
 
-🔧 Tools Used:
+## 🔧 Tools Used:
 MySQL
 
 Raw CSV data
 
 Manual pseudo-Order ID logic (Date + Customer Location)
 
-📬 Let’s Connect!
+## 📬 Let’s Connect!
 Feel free to explore the project, share feedback, or suggest improvements.
 Open to contributions and collaboration!
